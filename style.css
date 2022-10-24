@@ -1,0 +1,26 @@
+body {
+    background-color: #ffe6d1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #701f1f;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+#edicion{
+    position: relative;
+    text-align: right;
+    margin-right: 3%;
+    top: -45px;
+}
+#titulos{
+    text-align: left;
+    margin-left: 3%;
+    
+
+}
+.edicion {
+    float: right;
+    margin-right: 3%;
+}
